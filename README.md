@@ -1,2 +1,2 @@
 # LeetCode
-Coding Challanges and Practices 
+Coding Challenges and Practices 
